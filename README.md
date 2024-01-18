@@ -22,17 +22,17 @@ Gain insights into factors affecting software developer salaries.
 ![visualization](https://github.com/Rohit2cse/Software_Developer_Salary_Prediction/assets/106802013/dc24802e-0e99-4ada-8095-f6f1a162ae79)
 
 3.Machine Learning Models:
---Linear Regressor
---Decision Tree Regressor
---Random Forest Regressor
---Grid Search CV
+ 1.Linear Regressor
+ 2.Decision Tree Regressor
+ 3.Random Forest Regressor
+ 4.Grid Search CV
 
 4.Technologies Used:
---Python
---Streamlit
---scikit-learn
---Pandas
---NumPy
+1.Python
+2.Streamlit
+3.scikit-learn
+4.Pandas
+5.NumPy
 
 5.Dataset:
 StackOverFlow Survey Dataset 2023--https://insights.stackoverflow.com/survey
