@@ -2,6 +2,8 @@
 This project focuses on predicting software developers' salaries based on the Stack Overflow Survey 2023 data. Leveraging machine learning techniques, the application provides salary predictions and allows users to explore various factors influencing software developer compensation.
 
 Features:
+
+
 1.Predict Page:
 Users can input parameters to receive salary predictions.
 Machine learning models include Linear Regressor, Decision Tree Regressor, Random Forest Regressor, and Grid Search CV for model optimization.
